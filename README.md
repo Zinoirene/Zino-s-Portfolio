@@ -1,6 +1,6 @@
 #  Elohorzino's Portfolio
 
-#  [Project 1: Papi's Pizzeria Sales Dashboard](https://github.com/Zinoirene/Papi-s-Pizzeria.git)
+# [Project 1: Papi's Pizzeria Sales Dashboard](https://github.com/Zinoirene/Papi-s-Pizzeria.git)
 
     -This project I did as my first Power BI Project, where I created a sales dashboard for 2015 for a small pizza company (Papi’s Pizzeria).
     
